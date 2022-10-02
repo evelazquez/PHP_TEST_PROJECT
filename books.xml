@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<books>
+   <book>
+      <author>Garghentini, Davide</author>
+      <name>XML Developer's Guide</name>
+     
+   </book>
+   <book>
+      <author>Garcia, Debra</author>
+      <name>Midnight Rain</name>
+   </book>
+   <book>
+      <author>J. K. Rowling</author>
+      <name>Harry Potter</name>
+   </book>
+    <book>
+      <author>Eduardo</author>
+      <name>Dogs</name>
+   </book>
+   <book>
+      <author>Knorr, Stefan</author>
+      <name>Creepy Crawlies</name>
+   </book>
+   <book>
+      <author>Kress, Peter</author>
+      <name>Paradox Lost</name>
+   </book>
+   <book>
+      <author>O'Brien, Tim</author>
+      <name>Microsoft .NET: The Programming Bible</name>
+   </book>
+    <book>
+      <author>Galos, Mike</author>
+      <name>Visual Studio 7: A Comprehensive Guide</name>
+   </book>
+</books>
